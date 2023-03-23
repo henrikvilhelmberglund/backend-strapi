@@ -1,0 +1,77 @@
+﻿{
+  "version": 2,
+  "data": {
+    "api::student.student": {
+      "1": {
+        "id": 1,
+        "first_name": "Bat",
+        "last_name": "Man",
+        "age": 30,
+        "studying": "Bat Biology"
+      },
+      "2": {
+        "id": 2,
+        "first_name": "Super",
+        "last_name": "Man",
+        "age": 40,
+        "studying": "How to be superb"
+      },
+      "3": {
+        "id": 3,
+        "first_name": "Henrik",
+        "last_name": "Berglund",
+        "age": 35,
+        "studying": "Frontend Development"
+      },
+      "4": {
+        "id": 4,
+        "first_name": "Winnie",
+        "last_name": "The Pooh",
+        "age": 20,
+        "studying": "Frontend Development"
+      },
+      "5": {
+        "id": 5,
+        "first_name": "Harry",
+        "last_name": "Potter",
+        "age": 21,
+        "studying": "Witchcraft"
+      },
+      "6": {
+        "id": 6,
+        "first_name": "Hermione",
+        "last_name": "Granger",
+        "age": 20,
+        "studying": "Witchcraft"
+      },
+      "7": {
+        "id": 7,
+        "first_name": "Pepsi",
+        "last_name": "Man",
+        "age": 55,
+        "studying": "Beverage delivery"
+      },
+      "8": {
+        "id": 8,
+        "first_name": "Ace",
+        "last_name": "Ventura",
+        "age": 32,
+        "studying": "Bat Biology"
+      },
+      "9": {
+        "id": 9,
+        "first_name": "John",
+        "last_name": "Rambo",
+        "age": 40,
+        "studying": "Frontend Development"
+      },
+      "10": {
+        "id": 10,
+        "first_name": "Jesus",
+        "last_name": "Christ",
+        "age": 99999,
+        "studying": "Carpentry"
+      }
+    }
+  }
+}

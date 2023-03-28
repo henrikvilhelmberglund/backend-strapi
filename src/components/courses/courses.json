@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_courses_courses",
+  "info": {
+    "displayName": "courses"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "yh_points": {
+      "type": "integer",
+      "required": true
+    }
+  }
+}

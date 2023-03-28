@@ -4,7 +4,8 @@
   "info": {
     "singularName": "student",
     "pluralName": "students",
-    "displayName": "student"
+    "displayName": "student",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -26,6 +27,17 @@
     "studying": {
       "type": "string",
       "required": true
+    },
+    "courses": {
+      "type": "component",
+      "repeatable": true,
+      "component": "courses.courses"
+    },
+    "teacher": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::teacher.teacher",
+      "inversedBy": "students"
     }
   }
 }
